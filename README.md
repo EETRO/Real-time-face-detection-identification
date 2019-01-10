@@ -201,6 +201,8 @@ size = (550, 550)
 final_image = pill_image.resize(size, Image.ANTIALIAS)
 
 Again start with same faces.py file
+
+
 ✔ Step 17: Eyes 
 
 Detect the eyes by importing haarcascade_eye.xml file
